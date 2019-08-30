@@ -3,6 +3,7 @@ title: Terms
 layout: page
 permalink: /terms
 nav-link: true
+show_tile: true
 ---
 
 <div id="main">
