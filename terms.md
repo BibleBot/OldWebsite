@@ -23,7 +23,7 @@ show_tile: true
 
 <h3>Usage</h3>
 
-<p>The Service primarily allows you to reference Bible verses through inputting a reference and receiving the appropriate result. It additionally allows for user and server preferences in regards to translation used, interface language used, scheduling, and various format settings. The Service also contains commands that are solely for vanity purposes and have no core function outside of a plaintext message (for example, <pre>+invite</pre>). All commands can be found documented by using <pre>+biblebot</pre> in a channel where BibleBot has the appropriate permissions.</p>
+<p>The Service primarily allows you to reference Bible verses through inputting a reference and receiving the appropriate result. It additionally allows for user and server codeferences in regards to translation used, interface language used, scheduling, and various format settings. The Service also contains commands that are solely for vanity purposes and have no core function outside of a plaintext message (for example, <code>+invite</code>). All commands can be found documented by using <code>+biblebot</code> in a channel where BibleBot has the appropriate permissions.</p>
 
 <p><b>There is no warranty on the Service, meaning that your ability to use the Service can be taken away at any time, for any reason.</b></p>
 
@@ -32,7 +32,7 @@ show_tile: true
 <p><b>The Service collects the following data as a result of interaction with the bot:</b></p>
 
 - User and Server ("Guild") IDs (<a href="https://discordapp.com/developers/docs/reference#snowflakes">a Discord snowflake</a>))<br>
-- Preferences of version, interface language, scheduling channels and times, and dividing brackets.<br>
+- codeferences of version, interface language, scheduling channels and times, and dividing brackets.<br>
 - Global server count (i.e. the amount of servers the Service is handling)<br>
 - Global user count (i.e. the amount of users the Service is handling)<br>
 
@@ -48,7 +48,7 @@ show_tile: true
 
 <p>The Service and I use your data in the following ways:</p>
 
-- In order to make the functions cater to your needs (such as using your preferred version or interface language).<br>
+- In order to make the functions cater to your needs (such as using your codeferred version or interface language).<br>
 - To create analytics of how much a version or language is used in order to improve the Service in the future.<br>
 
 <p><b>No user data is handed to third-parties and generally stays on the Service's server unless for the internal usages outlined above.</b></p>
@@ -73,7 +73,7 @@ show_tile: true
 
 <h3>Contact Me</h3>
 
-<p>If you have any questions about these Terms, please contact me via email at <pre>me [at] vypr [dot] xyz</pre>, on Discord at <pre>vypr#0001</pre>, or on the BibleBot Discord server (see `+biblebot` for the invite link).</p>
+<p>If you have any questions about these Terms, please contact me via email at <code>me [at] vypr [dot] xyz</code>, on Discord at <code>vypr#0001</code>, or on the BibleBot Discord server (see `+biblebot` for the invite link).</p>
 </div>
 </section>
 </div>
