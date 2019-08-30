@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, I'm BibleBot.'
+landing-title: 'Hi, I'm BibleBot'
 description: null
 image: null
 author: null
