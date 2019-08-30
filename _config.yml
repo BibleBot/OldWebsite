@@ -2,14 +2,14 @@
 title: BibleBot
 subtitle: by Elliott Pardee
 email: me@vypr.xyz
-description: The official website of BibleBot, the premier Discord bot.
+description: The premier Discord bot for Bible verses and Christian resources.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://biblebot.xyz" # the base hostname & protocol for your site
 author:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 4
 
 # social settings
 500px_url:
