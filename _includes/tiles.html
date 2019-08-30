@@ -1,28 +1,20 @@
 <section id="one" class="tiles">
-  {% for post in site.posts limit:site.tiles-count %}
-  {% if site.tiles-source == 'posts' %}
   <article>
-    <span class="image">
-      <img src="{{ post.image }}" alt="" />
-    </span>
     <header class="major">
-      <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
-      <p>{{ post.description }}</p>
+      <h3><a href="/blog" class="link">Blog</a></h3>
+      <p>Read news, updates, and any musings relating to BibleBot.</p>
     </header>
   </article>
-  {% endif %}
-  {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
-  {% if site.tiles-source == 'pages' and page.show_tile != false %}
   <article>
-    <span class="image">
-      <img src="{{ page.image }}" alt="" />
-    </span>
     <header class="major">
-      <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
-      <p>{{ page.description }}</p>
+      <h3><a href="/commands" class="link">Commands</a></h3>
+      <p>An online command list at your assistance!</p>
     </header>
   </article>
-  {% endif %}
-  {% endfor %}
+  <article>
+    <header class="major">
+      <h3><a href="/terms" class="link">Terms of Service</a></h3>
+      <p>The legalese of using BibleBot.</p>
+    </header>
+  </article>
 </section>
