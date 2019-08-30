@@ -5,7 +5,7 @@ permalink: /terms
 nav-link: true
 ---
 
-Last updated: August 28=9th, 2019
+Last updated: August 29th, 2019
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the BibleBot Discord bot (BibleBot#1110; the "Service") operated by Elliott Pardee ("I", "me", or "my").
 
