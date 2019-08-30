@@ -5,6 +5,13 @@ permalink: /terms
 nav-link: true
 ---
 
+<div id="main" class="alt">
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Terms of Service</h1>
+		</header>
+    
 Last updated: August 29th, 2019
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the BibleBot Discord bot (BibleBot#1110; the "Service") operated by Elliott Pardee ("I", "me", or "my").
@@ -66,3 +73,6 @@ I reserve the right, at my sole discretion, to modify or replace these Terms at 
 ### Contact Me
 
 If you have any questions about these Terms, please contact me via email at `me [at] vypr [dot] xyz`, on Discord at `vypr#0001`, or on the BibleBot Discord server (see `+biblebot` for the invite link).
+</div>
+</section>
+</div>
