@@ -34,13 +34,13 @@ show_tile: true
 - User and Server ("Guild") IDs (<a href="https://discordapp.com/developers/docs/reference#snowflakes">a Discord snowflake</a>))<br>
 - codeferences of version, interface language, scheduling channels and times, and dividing brackets.<br>
 - Global server count (i.e. the amount of servers the Service is handling)<br>
-- Global user count (i.e. the amount of users the Service is handling)<br>
+- Global user count (i.e. the amount of users the Service is handling)<br><br>
 
 <p><b>Additionally, the Service makes a temporary log that is not saved to a file. The Service logs the following information when you interact with the Service:</b></p>
 
 - User, Server, and Channel IDs (<a href="https://discordapp.com/developers/docs/reference#snowflakes">a Discord snowflake</a>)<br>
 - The shard used for this interaction.<br>
-- The applicable parts of the message where a command is used or a verse is referenced.<br>
+- The applicable parts of the message where a command is used or a verse is referenced.<br><br>
 
 <p><b>The Service does not collect or log messages where there is no interaction with the bot.</b></p>
 
@@ -49,7 +49,7 @@ show_tile: true
 <p>The Service and I use your data in the following ways:</p>
 
 - In order to make the functions cater to your needs (such as using your codeferred version or interface language).<br>
-- To create analytics of how much a version or language is used in order to improve the Service in the future.<br>
+- To create analytics of how much a version or language is used in order to improve the Service in the future.<br><br>
 
 <p><b>No user data is handed to third-parties and generally stays on the Service's server unless for the internal usages outlined above.</b></p>
 
