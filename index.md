@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, I'm BibleBot'
+landing-title: 'Hi, I'm BibleBot!'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+BibleBot is the largest and first of any religious bot on Discord. Since December 2016, we've brought the good news to Christians everywhere on Discord. With over 200 Bible translations and 6 interface languages, our mission is to spread the Bible to all on Discord. Together, we can share the love and good news of Christ with others. Lord willing.
