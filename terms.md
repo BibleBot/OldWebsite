@@ -5,7 +5,7 @@ permalink: /terms
 nav-link: true
 ---
 
-<div id="main" class="alt">
+<div id="main">
 <section id="one">
 	<div class="inner">
 		<header class="major">
