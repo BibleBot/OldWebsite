@@ -72,7 +72,7 @@ show_tile: true
 
 <h3>Contact Me</h3>
 
-<p>If you have any questions about these Terms, please contact me via email at <code>me [at] vypr [dot] xyz</code>, on Discord at <code>vypr#0001</code>, or on the BibleBot Discord server (see <code>+biblebot</code> for the invite link).</p>
+<p>If you have any questions about these Terms, please contact me via email at <code>me [at] thevypr [dot] com</code>, on Discord at <code>srp#0001</code>, or on the BibleBot Discord server (see <code>+biblebot</code> for the invite link).</p>
 </div>
 </section>
 </div>
