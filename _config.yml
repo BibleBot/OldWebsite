@@ -1,7 +1,7 @@
 # site settings
 title: BibleBot
-subtitle: by Elliott Pardee
-email: me@vypr.xyz
+subtitle: by Evangelion
+email: legal@evangelion.uk
 description: The premier Discord bot for Bible verses and Christian resources.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://biblebot.xyz" # the base hostname & protocol for your site
