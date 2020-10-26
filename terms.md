@@ -68,7 +68,7 @@ show_tile: true
 
 <h3>Changes</h3>
 
-<p>We reserve the right, at my sole discretion, to modify or replace these Terms at any time. If a revision is material We will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at my sole discretion.</p>
+<p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material We will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p>
 
 <h3>Contact Us</h3>
 
