@@ -72,7 +72,7 @@ show_tile: true
 
 <h3>Contact Us</h3>
 
-<p>If you have any questions about these Terms, please contact us via email at <code>legal [at] evangelion [dot] uk</code>, on Discord at <code>srp#0001</code>, on the BibleBot Discord server (see <code>+biblebot</code> for the invite link), via phone at <code>+44 131 322 2016</code> or via mail at the following address:<br><br>
+<p>If you have any questions about these Terms, please contact us via email at <code>legal [at] evangelion [dot] uk</code>, on Discord at <code>srp#0001</code>, on the BibleBot Discord server (see <code>+biblebot</code> for the invite link), or via mail at the following address:<br><br>
 
 Evangelion Ltd<br>
 International House<br>
