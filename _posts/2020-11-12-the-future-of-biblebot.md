@@ -3,7 +3,6 @@ layout: post
 title: The Future of BibleBot
 description: How we look forward to the next 4 years of serving Christians all over Discord.
 image: assets/images/bibleinhand.jpg
-excerpt_separator: <!--more-->
 ---
 
 *(Photo by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)*
