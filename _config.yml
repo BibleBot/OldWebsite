@@ -29,7 +29,7 @@ markdown: kramdown
 sass:
   style: compressed
 
-excerpt-separator: <!--more-->
+excerpt_separator: <!--more-->
 permalink: /blog/:title/
 
 plugins:
