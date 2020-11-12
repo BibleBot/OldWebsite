@@ -28,3 +28,5 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+permalink: /blog/:title/
