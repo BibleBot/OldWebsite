@@ -3,6 +3,8 @@
 	<title>{{ site.title }}</title>
 	{% elsif page.layout == "post" or page.layout == "page" %}
 	<title>{{ page.title }} &ndash; {{ site.title }}</title>
+	{% elsif page.layout == "allposts" %}
+	<title>Blog &ndash; BibleBot</title>
 	{% endif %}
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -10,4 +12,9 @@
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ "assets/images/apple-touch-icon.png" | relative_url }}">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ assets/images/favicon-32x32.png | relative_url }}">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ assets/images/favicon-16x16.png | relative_url }}">
+	<link rel="manifest" href="{{ assets/images/site.webmanifest | relative_url }}">
+	<link rel="alternate" type="application/atom+xml" title="BibleBot" href="/feed.xml">
 </head>
