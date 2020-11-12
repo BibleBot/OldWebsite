@@ -1,5 +1,9 @@
 <head>
+	{% if page.layout == "home" or page.layout == "landing" %}
 	<title>{{ site.title }}</title>
+	{% elsif page.layout == "post" or page.layout == "page" %}
+	<title>{{ page.title }} &ndash; {{ site.title }}</title>
+	{% endif %}
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
