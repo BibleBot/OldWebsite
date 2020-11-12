@@ -22,7 +22,7 @@
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
 	  <header class="major">
-	<a href="{{ post.url }}"><h1>{{ post.title }}</h1></a>
+	<a href="{{ post.url }}"><h1 style="margin: 0 !important;">{{ post.title }}</h1></a>
 	  </header>
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
