@@ -25,7 +25,7 @@ show_tile: false
 <h2>Christian Standard Bible</h2>
 <p>Scripture quotations marked CSB&reg;, are taken from the Christian Standard Bible&reg;, Copyright © 2017 by Holman Bible Publishers. Used by permission. Christian Standard Bible&reg;, and CSB&reg; are federally registered trademarks of Holman Bible Publishers.</p>
 <h2>Wycliffe's Bible</h2>
-<p>Wycliffe's Bible, A Modern-Spelling Version of the 14th Century Middle English Translation, by John Wycliffe and John Purvey, with an introduction by Terence P. Noble is &copy;2010 and available on <a href="https://www.amazon.com/dp/1470149389/">Amazon</a></p>.
+<p>Wycliffe's Bible, A Modern-Spelling Version of the 14th Century Middle English Translation, by John Wycliffe and John Purvey, with an introduction by Terence P. Noble is &copy;2010 and available on <a href="https://www.amazon.com/dp/1470149389/">Amazon</a>.</p>
 	</div>
 </section>
 
