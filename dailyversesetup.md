@@ -8,12 +8,17 @@ show_tile: false
 
 <!-- One -->
 <section id="one">
+	<style>
+		optgroup, optgroup option {
+		color: black;
+		}
+	</style>
 	<div class="inner">
 		<header class="major">
 			<h1>Daily Verse Setup</h1>
 		</header>
 		
-		<form id="votd">
+	<form id="votd">
             <label for="votdrun">Set a time:</label>
             <input type="time" id="votdrun" name="votdrun" style="color: black;">
             <br><br>
@@ -551,7 +556,7 @@ show_tile: false
                 </optgroup>
                 
             </select>
-            <br><br>
+            <br>
             <input type="submit">
             <br><br>
         </form>
