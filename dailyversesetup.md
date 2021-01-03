@@ -575,6 +575,8 @@ show_tile: false
             let time = form.get('votdrun');
             let offset = form.get('timezone_offset');
 
+	if (!time || !offset) { throw Error('invalid input'); }
+
             var result = document.createElement("label");
             result.appendChild(document.createTextNode("Use this command to finish setup:"))
             
