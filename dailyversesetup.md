@@ -568,25 +568,25 @@ show_tile: false
   <script type="text/javascript">
   votd.onsubmit = async (e) => {
             e.preventDefault();
-
+	
+	try {
             let form = new FormData(votd);
 
             let time = form.get('votdrun');
             let offset = form.get('timezone_offset');
-            
 
             var result = document.createElement("label");
             result.appendChild(document.createTextNode("Use this command to finish setup:"))
             
-            var result2 = document.createElement("textarea");
-            result2.readOnly = true;
-            result2.style.width = "50%";
-            result2.style.height = "3.65em";
+            var result2 = document.createElement("code");
             result2.appendChild(document.createTextNode("+biblebot dailyverse setup " + time.toString() + " " + offset));
 
             var element = document.getElementsByTagName("form")[0];
             element.append(result);
             element.append(result2);
-            
+        } catch (e) {
+	    alert("An invalid input was given, the page will refresh for you to try again.");
+	    location.reload();
+	}
         }
   </script>
