@@ -31,6 +31,10 @@ show_tile: false
 		<p>Wycliffe's Bible, A Modern-Spelling Version of the 14th Century Middle English Translation, by John Wycliffe and John Purvey, with an introduction by Terence P. Noble is &copy;2010 and available on <a href="https://www.amazon.com/dp/1470149389/">Amazon</a>.</p>
 		<h2>Orthodox Jewish Bible</h2>
 		<p>THE ORTHODOX JEWISH BIBLE, Fourth Edition, copyright &copy; 2002, 2003, 2008, 2010, 2011 Artists for Israel International, Inc. Used by permission. All rights reserved.</p>
+		<h2>God's Word Translation</h2>
+		<p>GOD'S WORD&reg; Translation, &copy; 1995, 2003, 2013, 2014, 2019, 2020 by God's Word to the Nations Mission Society. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means—for example, electronic, photocopy, recording—without prior written permission of God's Word to the Nations Mission Society. The only exception is brief quotations in printed reviews. Up to 250 Scripture verses may be quoted in any form (printed, written, visual, electronic, or audio) without written permission, provided that no more than half of any one book of the Bible is quoted, and the verses quoted do not amount to 25 percent of the text of the product in which they are quoted.<br><br>For quotations over 250 verses and/or questions about these policies, please write to God's Word to the Nations Mission Society, P.O. Box 400, Orange Park, FL 32067-0400. You may also contact us through our website: <a href="https://godsword.org">godsword.org</a>.</p>
+		<h2>Berean Study Bible</h2>
+		<p>The Holy Bible, Berean Study Bible, BSB, copyright &copy; 2016, 2018 by Bible Hub. Used by permission. All rights reserved worldwide. For more information, visit <a href="https://berean.bible/">berean.bible</a>.</p>
 	</div>
 </section>
 
