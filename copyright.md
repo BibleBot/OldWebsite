@@ -15,6 +15,8 @@ show_tile: false
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>BibleBot contains copyrighted material used under permission (where applicable). As part of some licensing agreements, we have to provide a copyright statement.</p>
+		<h2>Logo</h2>
+		<p>Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.</p>
 		<h2>New American Standard Bible</h2>
 		<p>New American Standard Bible®, copyright © 1960, 1971, 1977, 1995, 2020 by The Lockman Foundation, La Habra, California. All rights reserved.<br><br>For Permission to Quote Information, please visit <a href="https://www.lockman.org">The Lockman Foundation website</a>.</p>
 		<h2>Amplified Bible</h2>
