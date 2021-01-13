@@ -25,7 +25,7 @@
 	<a href="{{ post.url }}"><h1 style="margin: 0 !important;">{{ post.title }}</h1></a>
 	  </header>
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" style="width: 65%; margin-left: auto; margin-right: auto;"/></span>{% endif %}
-	  {% if post.date %}<p>{{ post.date | date_to_long_string: "ordinal" }}</p>{% endif %}
+	  {% if post.date %}<p style="text-align: center;">{{ post.date | date_to_long_string: "ordinal" }}</p>{% endif %}
 	  <p>{{ post.excerpt }}</p>
 	  {% endif %}
           {% endfor %}
