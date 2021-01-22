@@ -12,7 +12,7 @@ show_tile: true
             <h1>Terms of Service</h1>
         </header>
     
-<p>Last updated: October 24th, 2020</p>
+<p>Last updated: January 22nd, 2021</p>
 
 <p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the BibleBot Discord bot (Bot ID 361033318273384449; the "Service") operated by Kerygma Digital Co. ("We" or "Us").</p>
 
