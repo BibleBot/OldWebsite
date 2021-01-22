@@ -31,7 +31,7 @@ show_tile: true
 <p><b>The Service collects the following data as a result of interaction with the bot:</b></p>
 
 - User and Server ("Guild") IDs (<a href="https://discordapp.com/developers/docs/reference#snowflakes">a Discord snowflake</a>)<br>
-- Preferences of version, interface language, scheduling channels and times, ignoring brackets, and verse display modes.<br>
+- Preferences of version, interface language, daily verse scheduling channels and times, ignoring brackets, input methods, command prefixes, and verse display modes.<br>
 - Global server count (i.e. the amount of servers the Service is handling)<br>
 - Approximate user count (i.e. the approximate amount of users the Service is handling)<br><br>
 
