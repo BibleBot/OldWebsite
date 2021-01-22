@@ -19,7 +19,7 @@ show_tile: false
 <br><br>Sorry for any inconvenience. Be sure to follow our announcements in the support server to be notified whenever we are able to restore the translation.
 <br><br>In Christ,
 <br>Elliott Pardee (Seraphim)<br>
-Executive Director &ndash; Evangelion Ltd.</p>
+Executive Director &ndash; Kerygma Digital</p>
 	</div>
 </section>
 
