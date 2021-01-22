@@ -14,7 +14,7 @@ show_tile: true
     
 <p>Last updated: October 24th, 2020</p>
 
-<p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the BibleBot Discord bot (Bot ID 361033318273384449; the "Service") operated by Evangelion Ltd ("We" or "Us").</p>
+<p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the BibleBot Discord bot (Bot ID 361033318273384449; the "Service") operated by Kerygma Digital Co. ("We" or "Us").</p>
 
 <p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p>
 
@@ -45,7 +45,7 @@ show_tile: true
 
 <h3>How is my data used?</h3>
 
-<p>The Service and Evangelion Ltd use your data in the following ways:</p>
+<p>We use your data in the following ways:</p>
 
 - In order to make the functions cater to your needs (such as using your preferred version or interface language).<br>
 - To create analytics of how much a version or language is used in order to improve the Service in the future.<br><br>
@@ -62,7 +62,7 @@ show_tile: true
 
 <p>The Service may contain links to third-party web sites or services that are not owned or controlled by Us.</p>
 
-<p>Evangelion Ltd has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Evangelion Ltd shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
+<p>We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Kerygma Digital Co. shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
 
 <p><b>Please note that this is solely for hyperlinking to other websites. None of your data is sent to any third-party.</b></p>
 
@@ -72,13 +72,13 @@ show_tile: true
 
 <h3>Contact Us</h3>
 
-<p>If you have any questions about these Terms, please contact us via email at <code>legal [at] evangelion [dot] uk</code>, on Discord at <code>srp#0001</code>, on the BibleBot Discord server (see <code>+biblebot</code> for the invite link), or via mail at the following address:<br><br>
+<p>If you have any questions about these Terms, please contact us via email at <code>team [at] kerygma [dot] digital</code>, on Discord at <code>srp#0001</code>, on the BibleBot Discord server (see <code>+biblebot</code> for the invite link), or via mail at the following address:<br><br>
 
-Evangelion Ltd<br>
-International House<br>
-38 Thistle Street<br>
-Edinburgh, EH2 1EN<br>
-United Kingdom</p>
+Kerygma Digital Co.<br>
+5830 East 2nd Street<br>
+Suite 7000 - #2913<br>
+Casper, WY 82609<br>
+United States</p>
 </div>
 </section>
 </div>
