@@ -4,7 +4,7 @@ title: Evangelion Ltd. to Rebrand to Kerygma Digital Co.
 description: As you may or may not have noticed, Evangelion Ltd., founded in Scotland in 2020 following the need for an ascension beyond the scope of BibleBot, announced a rebrand to Kerygma Digital. Here's why.
 image: assets/images/dove.jpg
 ---
-
+<!--more-->
 *(Photo by [Sunyu](https://unsplash.com/@sunyu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dove?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)*
 
 As you may or may not have noticed, Evangelion Ltd., founded in Scotland in 2020 following the need for an ascension beyond the scope of BibleBot, announced a rebrand to **Kerygma Digital**. Here's why.  
