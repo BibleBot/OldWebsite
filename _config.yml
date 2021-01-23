@@ -21,7 +21,7 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/biblebot_d
 
 # build settings
 markdown: kramdown
