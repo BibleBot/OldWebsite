@@ -1,7 +1,7 @@
 # site settings
 title: BibleBot
 subtitle: by Kerygma Digital
-email: legal@evangelion.uk
+email: team@kerygma.digital
 description: The premier Discord bot for Bible verses and Christian resources.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://biblebot.xyz" # the base hostname & protocol for your site
