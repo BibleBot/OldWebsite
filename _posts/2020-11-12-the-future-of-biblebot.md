@@ -8,7 +8,6 @@ image: assets/images/bibleinhand.jpg
 *(Photo by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)*
 
 As we near our 4th birthday, along with our new record of serving 20,000 communities, it's due time that we close the chapter on being a small hobby project and take BibleBot to the next level.
-<!--more-->
 
 To do this, we've founded **Evangelion Ltd.**, a private limited company incorporated in Edinburgh, Scotland. While the project will still be developed and provided by all of us, creating the legal entity will allow us to exponentiate our growth. For one, it provides us legitimacy. We're well past the point of being a small service, given our scope.
 
