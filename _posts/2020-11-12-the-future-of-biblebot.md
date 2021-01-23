@@ -4,7 +4,7 @@ title: The Future of BibleBot
 description: How we look forward to the next 4 years of serving Christians all over Discord.
 image: assets/images/bibleinhand.jpg
 ---
-
+<!--more-->
 *(Photo by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).)*
 
 As we near our 4th birthday, along with our new record of serving 20,000 communities, it's due time that we close the chapter on being a small hobby project and take BibleBot to the next level.
